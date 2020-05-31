@@ -1,0 +1,17 @@
+{
+  "name": "newton",
+  "displayName": "newton",
+  "expo": {
+    "name": "newton",
+    "slug": "newton",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
