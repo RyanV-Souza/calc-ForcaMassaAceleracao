@@ -1,4 +1,4 @@
-package com.newton;
+package com.appforca;
 
 import android.os.Bundle;
 

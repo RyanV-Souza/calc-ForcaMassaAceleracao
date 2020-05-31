@@ -1,9 +1,9 @@
 {
-  "name": "newton",
-  "displayName": "newton",
+  "name": "appForca",
+  "displayName": "appForca",
   "expo": {
-    "name": "newton",
-    "slug": "newton",
+    "name": "appForca",
+    "slug": "expo-template-bare",
     "version": "1.0.0",
     "platforms": [
       "ios",

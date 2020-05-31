@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>newton</string>
+	<string>appForca</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -57,26 +57,26 @@
 		</dict>
 	</dict>
 	<key>NSCalendarsUsageDescription</key>
-	<string>Allow newton to access your calendar</string>
+	<string>Allow appForca to access your calendar</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Allow newton to use the camera</string>
+	<string>Allow appForca to use the camera</string>
 	<key>NSContactsUsageDescription</key>
-	<string>Allow newton experiences to access your contacts</string>
+	<string>Allow appForca experiences to access your contacts</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Allow newton to use your location</string>
+	<string>Allow appForca to use your location</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Allow newton to use your location</string>
+	<string>Allow appForca to use your location</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Allow newton to use your location</string>
+	<string>Allow appForca to use your location</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Allow newton to access your microphone</string>
+	<string>Allow appForca to access your microphone</string>
 	<key>NSMotionUsageDescription</key>
-	<string>Allow newton to access your device's accelerometer</string>
+	<string>Allow appForca to access your device's accelerometer</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Give newton periences permission to save photos</string>
+	<string>Give appForca periences permission to save photos</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Give newton periences permission to access your photos</string>
+	<string>Give appForca periences permission to access your photos</string>
 	<key>NSRemindersUsageDescription</key>
-	<string>Allow newton to access your reminders</string>
+	<string>Allow appForca to access your reminders</string>
 </dict>
 </plist>
